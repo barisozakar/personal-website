@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Baris Ozakar',
-  domain: 'barisozakar.cloud',
+  domain: 'barisozakar.com',
   author: 'Baris Ozakar',
 
   // open graph metadata (optional)
